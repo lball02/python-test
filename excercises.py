@@ -5,7 +5,7 @@ In the below example comment out the first line of code and uncomment the second
 then run the file.
 """
 # print("This shouldn't print")
-print("Hello, Pamela Kavanagh!")
+print("Hello, Pamela Kavanagh! You look great!")
 
 """
 ==== Exercise 2: print multiple things ====
