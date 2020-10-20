@@ -79,19 +79,19 @@ x = 0 # Initialize a variable to use in the condition
 # for number in range(11):
 #     print(number)
 
-# def greet(name="John doe", greeting="Hello there: "):
-#     """Greets a person with the greeting and their name
+def greet(name="John doe", greeting="Hello there: "):
+    """Greets a person with the greeting and their name
 
-#     Parameters
-#     ----------
-#     name: (str)
-#         The name to greet by.
-#     greeting: (str)
-#         The greeting to greet by.
-#     """
-#     print(greeting, name)
+    Parameters
+    ----------
+    name: (str)
+        The name to greet by.
+    greeting: (str)
+        The greeting to greet by.
+    """
+    print(greeting, name)
 
-# # greet()
+# greet()
 
-# greet(name = "Kieran Wood") # Prints: Hello there: Kieran Wood
-# greet(greeting = "How it be: ") # Prints: How it be: John Doe
+greet(name = "Kieran Wood") # Prints: Hello there: Kieran Wood
+greet(greeting = "How it be: ") # Prints: How it be: John Doedfd
